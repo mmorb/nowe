@@ -1,1 +1,1 @@
-# Na potrzeby udostępniania kodu.
+# [Na potrzeby udostępniania kodu.](http://science.iscool.pl/me)
