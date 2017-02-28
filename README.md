@@ -1,0 +1,1 @@
+# Na potrzeby udostępniania kodu.
